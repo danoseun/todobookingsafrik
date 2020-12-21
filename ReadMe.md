@@ -21,7 +21,7 @@ The API documentation is available [here](https://documenter.getpostman.com/view
 Your system will need to have the following software installed. For mongoDB, a connection string from mongoDB atlas should do:
 
   * [Node](https://nodejs.org/en/download/)
-  * [Postgres](https://www.mongodb.com/cloud/atlas)
+  * [Postgres](https://www.postgresql.org/)
 
 ## Technologies
 * nodeJS/express
